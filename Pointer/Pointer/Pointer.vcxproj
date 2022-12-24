@@ -129,6 +129,11 @@
   <ItemGroup>
     <ClCompile Include="pointer1.c" />
     <ClCompile Include="pointer2.c" />
+    <ClCompile Include="pointer3.c" />
+    <ClCompile Include="pointer4.c" />
+    <ClCompile Include="pointer5.c" />
+    <ClCompile Include="pointer6.c" />
+    <ClCompile Include="pointer7.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

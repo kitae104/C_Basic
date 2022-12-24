@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main() {
+int main_2() {
 
 	char name[] = { 'k', 'i', 'm', '\0' };
 	char name1[] = "kimkitae";
